@@ -1,0 +1,6 @@
+{
+    "type": "Выберите верные утверждения",
+    "name": "Hello world!",
+    "description": "Чекбоксы",
+    "correctAnswers": [1, 2]
+}
