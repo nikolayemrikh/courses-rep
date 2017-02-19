@@ -1,5 +1,5 @@
 {
-    "name": "course1",
+    "title": "course1",
     "description": "Описание курса",
     "filesOrder": ["jquery-3.1.1.min.js"]
 }

@@ -1,6 +1,6 @@
 {
     "type": "htmlCssJs",
-    "name": "Let и const",
+    "title": "Let и const",
     "description": "Выясняем че это за дичь",
     "activeTab": "JS",
     "blockedCSS": false,
